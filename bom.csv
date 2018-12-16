@@ -1,0 +1,68 @@
+Item,Quantity,Note,Source
+"OpenBuild 
+VSlot 
+2040 
+1000mm",3, each to be cut to 250 + 250 + 500 mm,RatRig
+"carbon fiber tube
+8x6x500mm ",3,"request cuts of 245mm each
+
+The length of the arms doesn't need to be the exact but SHALL BE THE SAME for all of them. Trim them down with sandpaper if the difference is visible to the naked eye",AliExpress
+"220x3mm round 
+aluminum
+heat bed",1,,AliExpress
+"OpenBuild 
+VSlot 
+mini wheel",9,3x each carriage,AliExpress
+"NEMA 17
+stepper motor",4,cable included,AliExpress
+"GT2 Pulley 
+20 teeth
+5mm bore",3,lock on motor shaft with set screws,AliExpress
+"GT2 Pulley 
+16 teeth
+3mm bore",3,,AliExpress
+"GT2 Timing Belt
+6mm width",6m,,AliExpress
+"10mm steel ball
+M4 thread ",12,"3x carriages
+3x effector",AliExpress
+"6x13mm
+magnet rod",12,2x each arm,Supermagnete
+"V6 lite hotend
+kit ",,or original V6 all-metal hotend,e3d-online
+"12V 15A
+power supply",1,,AliExpress
+"KW-1-2A
+micro switch",1,remove lever,AliExpress
+"KW11-B
+switch",3,remove lever,AliExpress
+"40x10mm
+radial blow fan",2,2x effector print cooling fan,AliExpress
+"M5x8mm
+hex screw
+low profile",100,12x each motor and idler corner ,AliExpress
+"M5 T-nut
+hammer head",100,12x each motor and idler corner ,AliExpress
+"M4x10mm screw
+DIN 912",12,"3x carriage
+3x effector",AliExpress
+"M5x20mm screw
+DIN 912",3,idler pulley mount,AliExpress
+"M5x16mm screw
+DIN 912",9,3x carriage wheels,AliExpress
+"M3x10mm screw
+DIN 912",12,4x each stepper motor mount,AliExpress
+"M3x20mm screw
+DIN 912",1,1x effector tower spring,AliExpress
+"M3x30mm screw
+DIN 912",2,2x effector tower collar,AliExpress
+"M3x40mm screw
+DIN 912",1,1x effector tower rotation,AliExpress
+"M2.5x12mm screw
+DIN 912",6,6x endstop switches,AliExpress
+M3 nut,9,"3x for effector
+3x belt lock mounts
+3x belt tensioners",AliExpress
+"M2x8mm screw
+self tapping",4,2x (each) effector print cooling fan,AliExpress
+3mm grommet,1,1x effector tower spring,AliExpress
