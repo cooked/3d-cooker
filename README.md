@@ -1,6 +1,6 @@
 # wreck3D 
 
-The wreck3D is a parametric delta printer built around the OpenBuilds V-Slot linear rails.   
+The wreck3D is a parametric delta printer built around the OpenBuilds V-Slot 2040 linear rails.   
 
 The wreck3D design is made simple so that the built is achieved, with the same minimal set of 3D printed parts, in virtually any form-factor the OpenBuilds rails allow.
 
