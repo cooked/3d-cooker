@@ -8,7 +8,7 @@ The wreck3D design is made simple so that the built is achieved, with the same m
 List of the build sizes readily available:  
 
 * wreck3D-S (Build Volume: 200x185 mm) 
-* wreck3D-M (Build Volume: 200x185 mm)
+* wreck3D-M (Build Volume: 250x300 mm)
 
 [3D printed parts](printed-parts) - [Bill of Material](bom/bom.csv) - [Manual](https://github.com/wreck-lab/wreck3D/wiki)
    
